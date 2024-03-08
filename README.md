@@ -5,6 +5,7 @@
 - 📫 How to reach me developerlangesh@gmail.com
 - 😄 Pronouns: Call me Langz
 - ⚡ Fun fact: Google's First Tweet was in binary. ...
+- 😎 BRADON EICH ->-> God Father🔥
 
 <!---
 Langesh-Developer/Langesh-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
